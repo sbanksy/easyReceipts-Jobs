@@ -12,4 +12,5 @@ We value personal and professional growth and reward attention to detail.
 - Find the email buried in `test.easy`. Don't worry. The puzzle is fairly easy. 
 - In your email briefly explain how you found the email (code snippets, screenshots will be helpful)
 - Include your stackoverflow or github or bitbucket profile/ portfolio
-- Mention any apps you've built or projects you've enjoyed working on
+- Mention any apps you've built or projects you've enjoyed working on  
+- According to you, what is the funniest word in the English language?
