@@ -14,3 +14,6 @@ We value personal and professional growth and reward attention to detail.
 - Include your stackoverflow or github or bitbucket profile/ portfolio
 - Mention any apps you've built or projects you've enjoyed working on  
 - According to you, what is the funniest word in the English language?
+
+
+***We will get back to you within ~~a week~~ two weeks due to the high volume of responses***
